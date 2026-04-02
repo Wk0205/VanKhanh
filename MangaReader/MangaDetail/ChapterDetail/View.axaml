@@ -1,0 +1,53 @@
+﻿<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="250"
+             xmlns:vc="clr-namespace:MangaReader.ViewCommon"
+             x:Class="MangaReader.MangaDetail.ChapterDetail.View">
+
+    <UserControl.Resources>
+        <StreamGeometry x:Key="plus">
+            M256 80c0-17.7-14.3-32-32-32s-32 14.3-32 32V224H48c-17.7 0-32 14.3-32 32s14.3 32 32 32h144v144c0 17.7 14.3 32 32 32s32-14.3 32-32V288h144c17.7 0 32-14.3 32-32s-14.3-32-32-32H256V80z
+        </StreamGeometry>
+        <StreamGeometry x:Key="minus">
+            M432 256c0 17.7-14.3 32-32 32L48 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l352 0c17.7 0 32 14.3 32 32z
+        </StreamGeometry>
+        <StreamGeometry x:Key="fit">
+            M32 32C14.3 32 0 46.3 0 64v96c0 17.7 14.3 32 32 32s32-14.3 32-32V96h64c17.7 0 32-14.3 32-32s-14.3-32-32-32H32zM480 32c-17.7 0-32 14.3-32 32s14.3 32 32 32h64v64c0 17.7 14.3 32 32 32s32-14.3 32-32V64c0-17.7-14.3-32-32-32H480zM32 480c-17.7 0-32-14.3-32-32v-96c0-17.7 14.3-32 32-32s32 14.3 32 32v64h64c17.7 0 32 14.3 32 32s-14.3 32-32 32H32zm448 0c17.7 0 32-14.3 32-32v-64h64c17.7 0 32-14.3 32-32s-14.3-32-32-32h-96c-17.7 0-32 14.3-32 32v96c0 17.7 14.3 32 32 32z
+        </StreamGeometry>
+    </UserControl.Resources>
+
+    <Panel Margin="15">
+        <ProgressBar Name="ProgressBar" IsIndeterminate="True" HorizontalAlignment="Center" IsVisible="False"/>
+        <vc:ErrorPanel Name="ErrorPanel" IsVisible="False"/>
+
+        <DockPanel Name="MainContent">
+            <TextBlock Name="TitleTextBlock" FontSize="24" TextWrapping="Wrap" TextAlignment="Center" Margin="0 0 0 15"
+                       DockPanel.Dock="Top">Dragon Balls - Chapter 1</TextBlock>
+
+            <StackPanel Name="ZoomPanel" Orientation="Horizontal" Spacing="10" DockPanel.Dock="Bottom"
+                        Margin="0 15 0 0" HorizontalAlignment="Center">
+                <Button Click="PlusButton_OnClick" Padding="6">
+                    <PathIcon Width="15" Height="15" Data="{StaticResource plus}"/>
+                </Button>
+                <Button Click="MinusButton_OnClick" Padding="6">
+                    <PathIcon Width="15" Height="15" Data="{StaticResource minus}"/>
+                </Button>
+                <Button Click="FitButton_OnClick" Padding="6">
+                    <PathIcon Width="15" Height="15" Data="{StaticResource fit}"/>
+                </Button>
+            </StackPanel>
+
+            <ScrollViewer Name="ScrollViewer" HorizontalScrollBarVisibility="Auto"
+                          SizeChanged="ScrollViewer_OnSizeChanged">
+                <StackPanel Name="PageListStackPanel" Spacing="15"
+                            PointerPressed="PageListStackPanel_OnPointerPressed"
+                            PointerWheelChanged="PageListStackPanel_OnPointerWheelChanged">
+                    <Border Background="Silver" MinHeight="40" Opacity="0.1"></Border>
+                    <Border Background="Silver" MinHeight="40" Opacity="0.1"></Border>
+                </StackPanel>
+            </ScrollViewer>
+        </DockPanel>
+    </Panel>
+</UserControl>

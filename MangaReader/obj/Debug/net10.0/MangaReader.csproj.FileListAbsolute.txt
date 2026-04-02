@@ -1,0 +1,855 @@
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaReader.csproj.AssemblyReference.cache
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\Avalonia\Resources.Inputs.cache
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\Avalonia\resources
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfoInputs.cache
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfo.cs
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaReader.csproj.CoreCompileInputs.cache
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\MangaReader.exe
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\MangaReader.deps.json
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\MangaReader.runtimeconfig.json
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\MangaReader.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\MangaReader.pdb
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Base.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Controls.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.DesignerSupport.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Dialogs.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Markup.Xaml.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Markup.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Metal.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.MicroCom.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.OpenGL.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Vulkan.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Desktop.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Diagnostics.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Fonts.Inter.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.FreeDesktop.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Native.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Remote.Protocol.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Skia.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Fluent.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Simple.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Win32.Automation.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Win32.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.X11.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\HarfBuzzSharp.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\MicroCom.Runtime.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\SkiaSharp.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Tmds.DBus.Protocol.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaRea.9BAA37C0.Up2Date
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaReader.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\refint\MangaReader.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaReader.pdb
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaReader.genruntimeconfig.cache
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\ref\MangaReader.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Fizzler.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\HtmlAgilityPack.dll
+C:\Users\haxua\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\System.Xml.XPath.XmlDocument.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\MangaReader.exe
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\MangaReader.deps.json
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\MangaReader.runtimeconfig.json
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\MangaReader.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\MangaReader.pdb
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Base.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Controls.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.DesignerSupport.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Dialogs.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Markup.Xaml.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Markup.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Metal.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.MicroCom.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.OpenGL.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Vulkan.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Controls.ColorPicker.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Desktop.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Diagnostics.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Fonts.Inter.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.FreeDesktop.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Native.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Remote.Protocol.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Skia.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Fluent.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Simple.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Win32.Automation.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.Win32.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Avalonia.X11.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Fizzler.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Fizzler.Systems.HtmlAgilityPack.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\HarfBuzzSharp.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\HtmlAgilityPack.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\MicroCom.Runtime.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\SkiaSharp.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\System.Xml.XPath.XmlDocument.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\Tmds.DBus.Protocol.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\av_libglesv2.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\av_libglesv2.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\av_libglesv2.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libAvaloniaNative.dylib
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libSkiaSharp.so
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libSkiaSharp.so
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libSkiaSharp.so
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\RiderProjects\MangaReader\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaReader.csproj.AssemblyReference.cache
+D:\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\Avalonia\Resources.Inputs.cache
+D:\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\Avalonia\resources
+D:\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfoInputs.cache
+D:\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfo.cs
+D:\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaReader.csproj.CoreCompileInputs.cache
+D:\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaRea.9BAA37C0.Up2Date
+D:\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaReader.dll
+D:\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\refint\MangaReader.dll
+D:\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaReader.pdb
+D:\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\MangaReader.genruntimeconfig.cache
+D:\RiderProjects\MangaReader\MangaReader\obj\Debug\net10.0\ref\MangaReader.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\MangaReader.exe
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\MangaReader.deps.json
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\MangaReader.runtimeconfig.json
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\MangaReader.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\MangaReader.pdb
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Base.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Controls.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.DesignerSupport.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Dialogs.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Markup.Xaml.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Markup.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Metal.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.MicroCom.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.OpenGL.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Vulkan.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Controls.ColorPicker.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Desktop.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Diagnostics.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Fonts.Inter.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.FreeDesktop.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Native.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Remote.Protocol.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Skia.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Fluent.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Simple.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Win32.Automation.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.Win32.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Avalonia.X11.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Fizzler.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Fizzler.Systems.HtmlAgilityPack.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\HarfBuzzSharp.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\HtmlAgilityPack.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\MicroCom.Runtime.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\SkiaSharp.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\System.Xml.XPath.XmlDocument.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\Tmds.DBus.Protocol.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\av_libglesv2.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\av_libglesv2.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\av_libglesv2.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libAvaloniaNative.dylib
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libSkiaSharp.so
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libSkiaSharp.so
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libSkiaSharp.so
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\obj\Debug\net10.0\MangaReader.csproj.AssemblyReference.cache
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\obj\Debug\net10.0\Avalonia\Resources.Inputs.cache
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\obj\Debug\net10.0\Avalonia\resources
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\obj\Debug\net10.0\MangaReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfoInputs.cache
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfo.cs
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\obj\Debug\net10.0\MangaReader.csproj.CoreCompileInputs.cache
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\obj\Debug\net10.0\MangaRea.9BAA37C0.Up2Date
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\obj\Debug\net10.0\MangaReader.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\obj\Debug\net10.0\refint\MangaReader.dll
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\obj\Debug\net10.0\MangaReader.pdb
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\obj\Debug\net10.0\MangaReader.genruntimeconfig.cache
+D:\RiderProjects\PhanTrungKien_2380601130\MangaReader\obj\Debug\net10.0\ref\MangaReader.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaReader.csproj.AssemblyReference.cache
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\Avalonia\Resources.Inputs.cache
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\Avalonia\resources
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfoInputs.cache
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfo.cs
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaReader.csproj.CoreCompileInputs.cache
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaReader.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\refint\MangaReader.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaReader.pdb
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\MangaReader.exe
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\MangaReader.deps.json
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\MangaReader.runtimeconfig.json
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\MangaReader.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\MangaReader.pdb
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Base.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Controls.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.DesignerSupport.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Dialogs.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Markup.Xaml.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Markup.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Metal.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.MicroCom.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.OpenGL.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Vulkan.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Desktop.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Diagnostics.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Fonts.Inter.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.FreeDesktop.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Native.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Remote.Protocol.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Skia.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Fluent.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Simple.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Win32.Automation.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Win32.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.X11.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Fizzler.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\HarfBuzzSharp.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\HtmlAgilityPack.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\MicroCom.Runtime.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\SkiaSharp.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Tmds.DBus.Protocol.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaRea.9BAA37C0.Up2Date
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaReader.genruntimeconfig.cache
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\ref\MangaReader.dll
+C:\Users\Van Kha\Documents\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\LiteDB.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\MangaReader.exe
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\MangaReader.deps.json
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\MangaReader.runtimeconfig.json
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\MangaReader.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\MangaReader.pdb
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Base.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Controls.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.DesignerSupport.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Dialogs.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Markup.Xaml.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Markup.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Metal.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.MicroCom.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.OpenGL.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Vulkan.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Desktop.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Diagnostics.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Fonts.Inter.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.FreeDesktop.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Native.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Remote.Protocol.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Skia.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Fluent.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Simple.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Win32.Automation.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.Win32.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Avalonia.X11.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Fizzler.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\HarfBuzzSharp.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\HtmlAgilityPack.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\LiteDB.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\MicroCom.Runtime.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\SkiaSharp.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\Tmds.DBus.Protocol.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaReader.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\Avalonia\Resources.Inputs.cache
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\Avalonia\resources
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfo.cs
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaReader.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaRea.9BAA37C0.Up2Date
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaReader.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\refint\MangaReader.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaReader.pdb
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\MangaReader.genruntimeconfig.cache
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\LyVanKha_2380600948\MangaReader\obj\Debug\net10.0\ref\MangaReader.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\MangaReader.exe
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\MangaReader.deps.json
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\MangaReader.runtimeconfig.json
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\MangaReader.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\MangaReader.pdb
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Base.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Controls.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.DesignerSupport.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Dialogs.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Markup.Xaml.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Markup.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Metal.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.MicroCom.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.OpenGL.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Vulkan.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Desktop.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Diagnostics.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Fonts.Inter.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.FreeDesktop.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Native.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Remote.Protocol.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Skia.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Fluent.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Simple.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Win32.Automation.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Win32.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.X11.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Fizzler.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\HarfBuzzSharp.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\HtmlAgilityPack.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\LiteDB.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\MicroCom.Runtime.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\SkiaSharp.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Tmds.DBus.Protocol.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaReader.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\Avalonia\Resources.Inputs.cache
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\Avalonia\resources
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfo.cs
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaReader.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaRea.9BAA37C0.Up2Date
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaReader.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\refint\MangaReader.dll
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaReader.pdb
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaReader.genruntimeconfig.cache
+C:\Users\admin\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\ref\MangaReader.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\MangaReader.exe
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\MangaReader.deps.json
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\MangaReader.runtimeconfig.json
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\MangaReader.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\MangaReader.pdb
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Base.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Controls.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.DesignerSupport.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Dialogs.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Markup.Xaml.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Markup.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Metal.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.MicroCom.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.OpenGL.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Vulkan.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Desktop.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Diagnostics.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Fonts.Inter.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.FreeDesktop.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Native.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Remote.Protocol.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Skia.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Fluent.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Simple.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Win32.Automation.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.Win32.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Avalonia.X11.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Fizzler.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\HarfBuzzSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\HtmlAgilityPack.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\LiteDB.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\MicroCom.Runtime.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\SkiaSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\Tmds.DBus.Protocol.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaReader.csproj.AssemblyReference.cache
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\Avalonia\Resources.Inputs.cache
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\Avalonia\resources
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfoInputs.cache
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfo.cs
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaReader.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaRea.9BAA37C0.Up2Date
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaReader.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\refint\MangaReader.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaReader.pdb
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\MangaReader.genruntimeconfig.cache
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranMinhKhoi_2380601107_\MangaReader\obj\Debug\net10.0\ref\MangaReader.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\MangaReader.exe
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\MangaReader.deps.json
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\MangaReader.runtimeconfig.json
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\MangaReader.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\MangaReader.pdb
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Base.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Controls.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.DesignerSupport.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Dialogs.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Markup.Xaml.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Markup.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Metal.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.MicroCom.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.OpenGL.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Vulkan.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Desktop.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Diagnostics.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Fonts.Inter.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.FreeDesktop.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Native.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Remote.Protocol.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Skia.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Fluent.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Simple.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Win32.Automation.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.Win32.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Avalonia.X11.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Fizzler.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\HarfBuzzSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\HtmlAgilityPack.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\LiteDB.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\MicroCom.Runtime.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\SkiaSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\Tmds.DBus.Protocol.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\obj\Debug\net10.0\MangaReader.csproj.AssemblyReference.cache
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\obj\Debug\net10.0\Avalonia\Resources.Inputs.cache
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\obj\Debug\net10.0\Avalonia\resources
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\obj\Debug\net10.0\MangaReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfoInputs.cache
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfo.cs
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\obj\Debug\net10.0\MangaReader.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\obj\Debug\net10.0\MangaRea.9BAA37C0.Up2Date
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\obj\Debug\net10.0\MangaReader.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\obj\Debug\net10.0\refint\MangaReader.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\obj\Debug\net10.0\MangaReader.pdb
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\obj\Debug\net10.0\MangaReader.genruntimeconfig.cache
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\WEB_TRUYỆN\MangaReader\obj\Debug\net10.0\ref\MangaReader.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\MangaReader.exe
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\MangaReader.deps.json
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\MangaReader.runtimeconfig.json
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\MangaReader.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\MangaReader.pdb
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Base.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Controls.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.DesignerSupport.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Dialogs.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Markup.Xaml.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Markup.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Metal.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.MicroCom.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.OpenGL.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Vulkan.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Desktop.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Diagnostics.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Fonts.Inter.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.FreeDesktop.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Native.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Remote.Protocol.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Skia.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Fluent.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Simple.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Win32.Automation.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Win32.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.X11.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Fizzler.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\HarfBuzzSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\HtmlAgilityPack.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\LiteDB.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\MicroCom.Runtime.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\SkiaSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Tmds.DBus.Protocol.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaReader.csproj.AssemblyReference.cache
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\Avalonia\Resources.Inputs.cache
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\Avalonia\resources
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfoInputs.cache
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfo.cs
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaReader.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaRea.9BAA37C0.Up2Date
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaReader.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\refint\MangaReader.dll
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaReader.pdb
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaReader.genruntimeconfig.cache
+C:\Users\Hoang Phuc\Downloads\TranMinhKhoi_2380601107_\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\ref\MangaReader.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\MangaReader.exe
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\MangaReader.deps.json
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\MangaReader.runtimeconfig.json
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\MangaReader.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\MangaReader.pdb
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Base.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Controls.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.DesignerSupport.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Dialogs.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Markup.Xaml.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Markup.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Metal.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.MicroCom.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.OpenGL.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Vulkan.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Controls.ColorPicker.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Desktop.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Diagnostics.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Fonts.Inter.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.FreeDesktop.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Native.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Remote.Protocol.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Skia.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Fluent.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Simple.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Win32.Automation.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.Win32.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Avalonia.X11.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Fizzler.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Fizzler.Systems.HtmlAgilityPack.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\HarfBuzzSharp.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\HtmlAgilityPack.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\LiteDB.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\MicroCom.Runtime.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\SkiaSharp.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\System.Xml.XPath.XmlDocument.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\Tmds.DBus.Protocol.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaReader.csproj.AssemblyReference.cache
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\Avalonia\Resources.Inputs.cache
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\Avalonia\resources
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfoInputs.cache
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfo.cs
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaReader.csproj.CoreCompileInputs.cache
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaRea.9BAA37C0.Up2Date
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaReader.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\refint\MangaReader.dll
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaReader.pdb
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\MangaReader.genruntimeconfig.cache
+C:\RiderProjects\TranHoangPhuc_2380601755\MangaReader\obj\Debug\net10.0\ref\MangaReader.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\MangaReader.exe
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\MangaReader.deps.json
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\MangaReader.runtimeconfig.json
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\MangaReader.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\MangaReader.pdb
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Base.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Controls.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.DesignerSupport.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Dialogs.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Markup.Xaml.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Markup.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Metal.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.MicroCom.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.OpenGL.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Vulkan.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Desktop.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Diagnostics.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Fonts.Inter.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.FreeDesktop.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Native.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Remote.Protocol.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Skia.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Fluent.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Themes.Simple.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Win32.Automation.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.Win32.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Avalonia.X11.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Fizzler.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\HarfBuzzSharp.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\HtmlAgilityPack.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\LiteDB.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\MicroCom.Runtime.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\SkiaSharp.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\Tmds.DBus.Protocol.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\obj\Debug\net10.0\MangaReader.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\obj\Debug\net10.0\Avalonia\Resources.Inputs.cache
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\obj\Debug\net10.0\Avalonia\resources
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\obj\Debug\net10.0\MangaReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\obj\Debug\net10.0\MangaReader.AssemblyInfo.cs
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\obj\Debug\net10.0\MangaReader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\obj\Debug\net10.0\MangaRea.9BAA37C0.Up2Date
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\obj\Debug\net10.0\MangaReader.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\obj\Debug\net10.0\refint\MangaReader.dll
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\obj\Debug\net10.0\MangaReader.pdb
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\obj\Debug\net10.0\MangaReader.genruntimeconfig.cache
+C:\Users\Admin\Downloads\VanKhanh_2380601042\MangaReader\obj\Debug\net10.0\ref\MangaReader.dll
